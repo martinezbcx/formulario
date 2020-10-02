@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(184, 221, 177);
+
+}
+
+h1 {
+
+    color: rgb(82, 70, 4);
+    margin: left: 20px
+}
+
+
+
+h2 {
+
+    color: rgb(82, 70, 4);
+    margin: left: 20px
+}
+
+
+
+h3 {
+
+    color: rgb(82, 70, 4);
+    margin: left: 20px
+    
+}
+
+
+
+#text {
+    color: rgb(4, 22, 12);
+    font-size: 200%;
+    clear: left;
+}
+
